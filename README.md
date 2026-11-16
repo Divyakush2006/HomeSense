@@ -36,6 +36,7 @@ Speak to your room. HomeSense hears you, understands what you meant, and drives 
 - [Troubleshooting](#troubleshooting)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [Security](#security)
 - [License](#license)
 - [Author](#author)
 
@@ -404,6 +405,10 @@ Contributions are welcome.
 Please keep the opcode map in `serial_bridge.py` and the firmware switch in sync in the same commit, and never commit `creds.py`.
 
 ---
+
+## Security
+
+Please report vulnerabilities privately as described in the [security policy](https://github.com/Divyakush2006/.github/blob/main/SECURITY.md). Do not open a public issue.
 
 ## License
 
